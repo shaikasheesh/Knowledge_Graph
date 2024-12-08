@@ -4,5 +4,6 @@ In this Notebook you will find the steps for implementing KG for RAG pipeline
 
 
 ## Solution Architecture:
-![image](https://github.com/user-attachments/assets/9d680054-5c2b-404a-8237-1a0f703d8902)
+![image](https://github.com/user-attachments/assets/2e673278-9eeb-487f-8d4a-d45152e59c24)
+
 
